@@ -1,0 +1,6 @@
+{
+  "name": "Smart Commute Assistant",
+  "description": "AI-powered scheduling & commute assistant that calculates leave-by times, compares transport modes, and provides live traffic alerts.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
